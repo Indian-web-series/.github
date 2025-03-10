@@ -23,7 +23,7 @@ LSD: Love Sex Dhokha ne jab Indian cinema mein ek alag pehchaan banayi thi, tab 
 
 ### Director Aur Production
 
-LSD ke pehle edition ke experimental andaaz ko dekhte hue, **Watch LSD 2 : Love Sex our Dhokha 2** ko ek pramukh director ke netritva mein banaya gaya hai. Filmmakers ne production quality aur narrative ko dhyan mein rakhte hue aise kalakaron ka chunav kiya hai jo film ke provocative themes ko sahi roop mein pesh kar sakein.
+LSD ke pehle edition ke experimental andaaz ko dekhte hue, **Watch LSD 2 : Love Sex our Dhokha 2** ko ek pramukh director ke netritva mein banaya gaya hai. Filmmakers ne production quality aur narrative ko dhyan mein rakhte hue aisa kalakaron ka chunav kiya hai jo film ke provocative themes ko sahi roop mein pesh kar sakein.
 
 ### Actors Aur Character Details
 
