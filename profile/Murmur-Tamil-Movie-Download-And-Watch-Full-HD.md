@@ -82,3 +82,19 @@ Murmur is a standout addition to Tamil cinema that promises a blend of emotional
 - Full HD Tamil movies
 - Best
 -  Tamil movie streaming
+
+## More Intertenment 👇
+
+[Anora Movie](https://github.com/Indian-web-series/.github/blob/main/profile/Anora-movie-download-and-Watch-in-hindi-tamil-full-HD.md)
+[Dil Dosti our Dogs 2025 Movie](https://github.com/Indian-web-series/.github/blob/main/profile/Dil-Dosti-our-Dogs-2025-Movie-download-And-Watch-Full-HD.md)
+[Murmur Tamil Movie](https://github.com/Indian-web-series/.github/blob/main/profile/Murmur-Tamil-Movie-Download-And-Watch-Full-HD.md)
+[Dhoom Dhaam 2025 muvie](https://github.com/Indian-web-series/.github/blob/main/profile/New-Dhoom%20Dhaam-2025-Movie-Download-and-Watch-Hindi-Tamil-Telugu.md)
+[Delhi-Crime-Season-2](https://github.com/new-Indian-web-series/.github/blob/main/profile/Delhi-Crime-Season-2-Download-and-watch-full-HD-indian-web-series.md)
+[Mirzapur Season 3](https://github.com/new-Indian-web-series/.github/blob/main/profile/Mirzapur-season-3-Full-HD-ads-free-Watch-Download.md)
+[New Banni ka Kissa](https://github.com/new-Indian-web-series/.github/blob/main/profile/New-Banni-ka-Kissa-hot-Web-Series-Full-HD-Watch-Download.md)
+[Paatal Lok](https://github.com/new-Indian-web-series/.github/blob/main/profile/Paatal-Lok-Full-HD-ads-free-Watch-Download.md)
+[Panchayat indian Web series](https://github.com/new-Indian-web-series/.github/blob/main/profile/Panchayat-Full-HD-Nonstop-ads-free-Watch-Download.md)
+[The Family Man](https://github.com/new-Indian-web-series/.github/blob/main/profile/The-Family-Man-season-2-Full-HD-Watch-Download.md)
+[Utha Patak](https://github.com/new-Indian-web-series/.github/blob/main/profile/Utha-Patak-Full-HD-ads-free-Watch-Download.md)
+[Kota Factory](https://github.com/new-Indian-web-series/.github/blob/main/profile/kota-factory-season-3-Full-HD-ads-free-Watch-Download.md)
+[My Girlfriend is Alien Season 2](https://github.com/new-Indian-web-series/.github/blob/main/profile/my-girlfriend-is-alien-season-2-in-hindi-episode-1.md)
