@@ -10,6 +10,14 @@ Keywords: Priyanka Nagra, Private Leaked, Viral Video Reaction, Trending News, C
 # Visit our blog: https://vcr24.blogspot.com/
 
 
+import webbrowser
+
+def open_blog():
+    # Yeh function user ke default browser mein blog khol dega.
+    webbrowser.open("https://vcr24.blogspot.com/")
+
+open_blog()
+
 
 import json
 import datetime
