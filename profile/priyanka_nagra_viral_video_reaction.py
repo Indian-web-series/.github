@@ -7,11 +7,8 @@ Description: This script provides an analytical demonstration of a viral inciden
 It integrates SEO-friendly keywords naturally in the comments and code structure.
 Keywords: Priyanka Nagra, Private Leaked, Viral Video Reaction, Trending News, Celebrity Gossip, Viral Video Analysis, Social Media Trends, Online Buzz, Entertainment News, Public Reaction, Viral Content, Media Analysis, Digital Footprint, Trending Celebrity News, Celebrity Privacy, Digital Ethics
 """
-url = "https://vcr24.blogspot.com/"
-print("Visit our blog at:", url)
+# Visit our blog: https://vcr24.blogspot.com/
 
-url = "https://vcr24.blogspot.com/"
-print("Visit our blog at:", url)
 
 
 import json
